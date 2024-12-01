@@ -3,6 +3,7 @@
     padding: 0;
 }
 body{
+    color: black;
     direction: rtl;
     text-align: right;
     font-family: YekanBakh, serif;
